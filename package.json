@@ -1,0 +1,24 @@
+{
+  "name": "lava",
+  "version": "1.0.0",
+  "description": "<div dir=\"rtl\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedWaelDev/LAVA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AhmedWaelDev/LAVA/issues"
+  },
+  "homepage": "https://github.com/AhmedWaelDev/LAVA#readme",
+  "devDependencies": {
+    "sharp": "^0.35.1"
+  }
+}
