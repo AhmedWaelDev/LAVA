@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Image optimization scripts (dev tools, not part of the website)
+optimize-images.js
+fix-all.js
+verify.js
+package.json
+package-lock.json
+
+# Backup folder created by optimization script
+images/original-backup/
+
+# Build artifacts / temp files
+__next.__PAGE__.txt
+__next._full.txt
+__next._head.txt
+__next._index.txt
+__next._tree.txt
+
+# OS files
+.DS_Store
+Thumbs.db
